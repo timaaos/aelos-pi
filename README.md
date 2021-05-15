@@ -1,5 +1,5 @@
 # aelos-pi
-A raspberry pi modification to Aelos Bot
+A Raspberry Pi modification for Aelos Bot
 ## Components:
 - [Waveshare Servo Driver HAT](https://www.waveshare.com/wiki/Servo_Driver_HAT)
 - [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/)
